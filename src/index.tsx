@@ -11,6 +11,7 @@ import {
   Navigate,
 } from "react-router-dom";
 
+// CSS
 import '@fontsource/roboto/300.css';
 import '@fontsource/roboto/400.css';
 import '@fontsource/roboto/500.css';
